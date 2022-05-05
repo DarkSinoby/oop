@@ -1,0 +1,5 @@
+﻿  2,1.cpp
+  Source.cpp
+C:\Users\mikar\source\repos\2,1\2,1\Source.cpp(12,11): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  2,1.vcxproj -> C:\Users\mikar\source\repos\2,1\x64\Debug\2,1.exe

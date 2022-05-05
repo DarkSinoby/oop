@@ -1,0 +1,9 @@
+﻿  2.2.cpp
+  Source1.cpp
+C:\Users\mikar\source\repos\2.2\2.2\Source1.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\mikar\source\repos\2.2\2.2\Source1.cpp(92): warning C4715: a: значение возвращается не при всех путях выполнения
+Source1.obj : error LNK2005: "int sum" (?sum@@3HA) уже определен в 2.2.obj
+Source1.obj : error LNK2005: "int num" (?num@@3HA) уже определен в 2.2.obj
+Source1.obj : error LNK2005: "int * x" (?x@@3PEAHEA) уже определен в 2.2.obj
+C:\Users\mikar\source\repos\2.2\x64\Debug\2.2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
